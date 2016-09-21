@@ -5,7 +5,7 @@
 @section('content')
 
 <center>
-<img src="/blog/public/images/laravel.png" class="img-responsive">
+<img src="public/images/laravel.png" class="img-responsive">
 
 </center>
 

@@ -32,8 +32,8 @@
 		<nav class="navbar navbar-desault">
 			<div class="container-fluid">
 				<div class="collapse navbar-collapse">
-					<p class="navbar-text">Todos los derechos reservados &copy {{date('d/m/y')}}</p>
-					<p class="navbar-text navbar-right"><b>CodigoFacilito</b></p>
+					<p class="navbar-text">Todos los derechos reservados &copy {{date('Y')}}</p>
+					<p class="navbar-text navbar-right"><b>Curso Laravel Codigo Facilito</b></p>
 				</div>
 			</div>
 		</nav>
